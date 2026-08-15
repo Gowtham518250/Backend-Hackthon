@@ -1,0 +1,23 @@
+[
+  {
+    "page_content": "col1: 1 | col2: 2",
+    "metadata": {
+      "file_id": "999a997749ce7e62bf7d6d6303dbd640",
+      "file_name": "sample.csv",
+      "file_type": "csv",
+      "row": 2,
+      "headers": [
+        "col1",
+        "col2"
+      ],
+      "row_data": {
+        "col1": "1",
+        "col2": "2"
+      },
+      "language": "en",
+      "chunk_type": "structured_row",
+      "chunk_id": "999a997749ce7e62bf7d6d6303dbd640-0",
+      "chunk_index": 0
+    }
+  }
+]
